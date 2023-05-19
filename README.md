@@ -2,8 +2,7 @@
 
 ## Table of contents
 - [Road map](#road-map)
-  - [Home page](#home-page)
+  - [Home page](public/assets/resources/Scan.pdf)
 
 ## Road Map
-### Home page
-![Home page road map](public/assets/resources/Scan.pdf)
+TODO...
