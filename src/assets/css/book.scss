@@ -1,0 +1,31 @@
+// Font families
+$body-font-family: 'Urbanist', sans-serif;
+$accent-font-family: 'Major Mono Display', monospace;
+
+// Variable colors
+$background: var(--background);
+$background-darker: var(--background-darker);
+$background-dark: var(--background-dark);
+$background-black: var(--background-black);
+
+$text: var(--text);
+$text-darker: var(--text-darker);
+$text-dark: var(--text-dark);
+$text-black: var(--text-black);
+
+// Static colors
+$primary: hsla(9, 85%, 65%, 1);
+$primary-darker: hsla(3, 86%, 64%, 1);
+$primary-lighter: hsla(15, 87%, 66%, 1);
+
+$gray: hsla(210, 11%, 71%, 1);
+
+$white-bright: hsla(210, 17%, 98%, 1);
+$white-light: hsla(210, 16%, 93%, 1);
+$white-dark: hsla(210, 14%, 89%, 1);
+$white-darker: hsla(210, 14%, 83%, 1);
+
+$black-bright: hsla(208, 7%, 46%, 1);
+$black-light: hsla(210, 9%, 31%, 1);
+$black-dark: hsla(210, 10%, 23%, 1);
+$black-darker: hsla(210, 11%, 15%, 1);
