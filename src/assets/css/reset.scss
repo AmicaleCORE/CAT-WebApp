@@ -24,6 +24,8 @@ button {
 }
 
 img,
-video {
+video,
+svg {
   display: block;
+  max-width: 100%;
 }
